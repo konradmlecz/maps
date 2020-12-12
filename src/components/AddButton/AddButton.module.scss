@@ -1,0 +1,11 @@
+@import "data/style.variable.scss";
+
+.addButton{
+font-size: 4rem;
+position: fixed;
+left:30px;
+bottom: 30px;
+color: $font-color-tertiary;
+cursor: pointer;
+z-index: 2;
+}

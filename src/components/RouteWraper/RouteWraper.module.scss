@@ -1,0 +1,11 @@
+@import "data/style.variable.scss";
+
+.routeWraper{
+    width: 100%;
+    padding: 40px 20px 20px 20px;
+    background-color: $backgroud-color-primary;
+    display: flex;
+    justify-content: center;
+    font-size: $font-size-normal;
+    min-height: 100vh;
+    }
